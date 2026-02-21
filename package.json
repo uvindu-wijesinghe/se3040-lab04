@@ -1,0 +1,20 @@
+{
+  "name": "se3040-lab04",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/uvindu-wijesinghe/se3040-lab04#readme",
+  "bugs": {
+    "url": "https://github.com/uvindu-wijesinghe/se3040-lab04/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uvindu-wijesinghe/se3040-lab04.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
