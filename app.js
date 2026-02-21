@@ -1,6 +1,3 @@
-const fs = require('fs');
+const myModule = require('./my-module.js');
 
-fs.writeFile('file.txt', 'Hello World!', function (err) {
-  if (err) throw err;
-  console.log('File saved!');
-});
+console.log(myModule.myFunction());
